@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O4nZZGWLk2N7+MdJRCIF2Y+bLd+SLFK6RsVOk2kQcQU=",
+  "Source": "cronjob",
+  "BasePath": "_content/cronjob",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
